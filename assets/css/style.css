@@ -1,0 +1,19 @@
+#user1,
+#arena,
+#user2 {
+  border-style: solid;
+  border-width: thick;
+  height: 300px;
+  display: inline-block;
+}
+
+#row2 {
+  vertical-align: middle;
+  width: 100%;
+  position: absolute;
+}
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+
